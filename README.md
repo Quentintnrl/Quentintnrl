@@ -140,13 +140,13 @@ flowchart LR
 <div align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=rust,java,ts,js,go,python,php&perline=7" />
+<img src="https://skillicons.dev/icons?i=rust,java,ts,js,python&perline=5" />
 
 **Backend & Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,postgres,redis,graphql&perline=6" />
 
 **DevOps & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,linux,nginx,aws,gcp,azure&perline=10" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,linux,nginx,gcp&perline=8" />
 
 **Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&perline=5" />
